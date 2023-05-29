@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.cont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.cont-select {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+
+#map {
+    height: 70vh;
+    width: 70vw;
+}
+
+.leaflet-popup-content-wrapper {
+    border: 2px solid cornflowerblue;
+}
+
+.leaflet-popup-tip {
+    border: 2px solid cornflowerblue;
+}
+
+.leaflet-popup-content-wrapper>div {
+    color: cornflowerblue;
+    align-items: center;
+}
+
+.leaflet-popup-content-wrapper>button {
+    color: cornflowerblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+header {
+    padding-top: 1.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid #E2E8F0;
+}
+
+h1 {
+    display: flex;
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+svg {
+    width: 16rem;
+}
+
+strong {
+    font-weight: 600;
+    letter-spacing: 0.05em;
+}
+
+select {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
