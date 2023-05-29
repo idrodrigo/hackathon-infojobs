@@ -5,6 +5,17 @@ Cuando encuentro una oferta de empleo interesante en un portal de empleo, suelo 
 
 Mi propuesta de valor es combinar la información disponible en infojobs con un mapa interactivo, proporcionando una experiencia enriquecedora y eficiente para los usuarios.
 
+Demo: 
+https://idrodrigo.github.io/hackathon-infojobs/
+
+# Screenshots
+<p align="center">
+  <img src="https://github.com/idrodrigo/hackathon-infojobs/assets/117315116/6a79a2c0-9c40-4cad-b735-d8cf66177e6c">
+</p>
+
+![infojobs-pc](https://github.com/idrodrigo/hackathon-infojobs/assets/117315116/ec52de05-ed31-44e9-8d51-5e5731870eb2)
+
+
 # Características principales
 * Visualización de ofertas de empleo en un mapa interactivo: Las ofertas de empleo se representan como marcadores en un mapa, lo que permite una visión general y geográfica de las oportunidades laborales disponibles.
 
