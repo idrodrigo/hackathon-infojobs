@@ -8,6 +8,8 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-color: #F2F2F2;
+    height: calc(100vh - 150px);
 }
 
 .cont-select {
